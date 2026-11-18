@@ -17,7 +17,7 @@ cd RevOps-Kit\powershell
 
 ### Linux / macOS (Bash)
 ```bash
-git clone https://github.com
+git clone https://github.com/Hu2ie/RevOps-Ki
 cd RevOps-Kit/bash
 chmod +x menu.sh rev/*.sh opt/*.sh
 ./menu.sh
