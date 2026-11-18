@@ -8,10 +8,10 @@
 
 *Zero-dependency PowerShell & Bash scripts for binary triage and OS tuning.*
 
-![Platform](https://shields.io)
-![Language](https://shields.io)
-![License](https://shields.io)
-![Build](https://shields.io)
+[![Platform](https://shields.io)](https://github.com)
+[![Language](https://shields.io)](https://microsoft.com)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Build](https://shields.io)](.github/workflows/lint.yml)
 
 </div>
 
@@ -25,14 +25,14 @@
 
 ### Windows (PowerShell)
 ```powershell
-git clone https://github.com
+git clone https://github.com.git
 cd RevOps-Kit\powershell
 .\menu.ps1
 ```
 
 ### Linux / macOS (Bash)
 ```bash
-git clone https://github.com
+git clone https://github.com.git
 cd RevOps-Kit/bash
 chmod +x menu.sh rev/*.sh opt/*.sh
 ./menu.sh
