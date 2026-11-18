@@ -1,10 +1,25 @@
+<div align="center">
+
+<img src="screen/PowerShell-Hero-Approved.png" alt="RevOps-Kit Banner" width="800">
+
 # RevOps-Kit
 
-![Code Quality Check](https://github.com)
-![License: MIT](https://shields.io)
-![Platform](https://shields.io)
+**Cross-platform Reverse Engineering & System Optimization Toolkit.**
 
-A cross-platform, zero-dependency script collection for initial static binary analysis (Reverse Engineering) and safe operating system optimization.
+*Zero-dependency PowerShell & Bash scripts for binary triage and OS tuning.*
+
+![Platform](https://shields.io)
+![Language](https://shields.io)
+![License](https://shields.io)
+![Build](https://shields.io)
+
+</div>
+
+---
+
+## Overview
+
+**RevOps-Kit** provides a structured, dependency-free set of command-line utilities designed for rapid static analysis of executable files (PE/ELF) and safe operating system cleanup. Built to run natively out of the box on both Windows and Linux environments.
 
 ## Quick Start
 
@@ -17,7 +32,7 @@ cd RevOps-Kit\powershell
 
 ### Linux / macOS (Bash)
 ```bash
-git clone https://github.com/Hu2ie/RevOps-Ki
+git clone https://github.com
 cd RevOps-Kit/bash
 chmod +x menu.sh rev/*.sh opt/*.sh
 ./menu.sh
