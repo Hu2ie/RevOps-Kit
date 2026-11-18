@@ -8,10 +8,10 @@
 
 *Zero-dependency PowerShell & Bash scripts for binary triage and OS tuning.*
 
-[![Platform](https://shields.io)](https://github.com)
-[![Language](https://shields.io)](https://microsoft.com)
+[![Platform](https://img.shields.io/badge/platform-any-lightgrey?style=flat-square)](https://github.com)
+[![Language](https://img.shields.io/badge/language-C%23-blue?style=flat-square)](https://microsoft.com)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Build](https://shields.io)](.github/workflows/lint.yml)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](.github/workflows/lint.yml)
 
 </div>
 
